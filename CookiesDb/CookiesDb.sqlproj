@@ -70,5 +70,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Snapshots\CookiesDb_20210215_17-45-39.dacpac" />
+    <None Include="Snapshots\CookiesDb_20210215_測試機.dacpac" />
   </ItemGroup>
 </Project>
