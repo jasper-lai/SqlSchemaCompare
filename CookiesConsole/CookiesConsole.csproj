@@ -49,5 +49,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Content Include="Sql Scripts\00-CreateDatabase.sql" />
+    <Content Include="Sql Scripts\01-CreateTable.sql" />
+    <Content Include="Sql Scripts\02-InitData.sql" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
